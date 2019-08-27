@@ -6,3 +6,5 @@ Random sampling was done to select 30,000 records on which Data Preprocessing wa
 In Data Cleaning, missing values were dealt with, inconsistencies were identified and resolved and outliers were detected. 
 
 In Data Reduction, Correlation among variables was identified and PCA was implemented.
+
+All the tasks and the dataset was implemented using JMP Pro 14
